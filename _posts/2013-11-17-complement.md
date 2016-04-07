@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 为什么要用补码表示负数
+title: 为什么要用补码表示负数11111111111111111111111111111111111111111111111111111111
 tags: 补码 computer
 categories: common
 ---
